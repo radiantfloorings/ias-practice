@@ -1,0 +1,279 @@
+[
+  {
+    "question": "Which is one of the highest police awards in India?",
+    "options": [
+      "Police Medal for Meritorious Service",
+      "President's Police Medal for Gallantry",
+      "Indian Police Medal",
+      "George Cross"
+    ],
+    "answer": 1,
+    "explanation": "The President's Police Medal for Gallantry is one of the highest police awards in India."
+  },
+  {
+    "question": "The President's Police Medal for Gallantry is awarded mainly for:",
+    "options": [
+      "Long service",
+      "Exceptional bravery",
+      "Good administration",
+      "Training excellence"
+    ],
+    "answer": 1,
+    "explanation": "It is awarded for exceptional bravery and courage during dangerous situations."
+  },
+  {
+    "question": "Which of the following is NOT mentioned as a criterion for the President's Police Medal for Gallantry?",
+    "options": [
+      "Exceptional bravery",
+      "Protecting people",
+      "Maintaining safety",
+      "Excellent office management"
+    ],
+    "answer": 3,
+    "explanation": "Office management is not mentioned as a criterion."
+  },
+  {
+    "question": "The President's Police Medal for Gallantry honours officers who:",
+    "options": [
+      "Complete 20 years of service",
+      "Risk their lives while performing duty",
+      "Train new recruits",
+      "Work in headquarters"
+    ],
+    "answer": 1,
+    "explanation": "The medal honours police officers who risk their lives while performing duty."
+  },
+  {
+    "question": "The Police Medal for Gallantry is awarded for:",
+    "options": [
+      "Administrative work",
+      "Acts of bravery and courage",
+      "Excellent investigation reports",
+      "Long service"
+    ],
+    "answer": 1,
+    "explanation": "It recognizes acts of bravery and courage."
+  },
+  {
+    "question": "One purpose of the Police Medal for Gallantry is to recognize:",
+    "options": [
+      "Office discipline",
+      "Heroic actions by police officers",
+      "Promotion eligibility",
+      "Sports achievements"
+    ],
+    "answer": 1,
+    "explanation": "Its purpose is to recognize heroic actions performed by police officers."
+  },
+  {
+    "question": "The President's Police Medal for Distinguished Service is awarded for:",
+    "options": [
+      "Excellent and long service",
+      "Winning competitions",
+      "Completing police training",
+      "Office attendance"
+    ],
+    "answer": 0,
+    "explanation": "It recognizes excellent and long service in the police department."
+  },
+  {
+    "question": "Which quality is specifically mentioned for the President's Police Medal for Distinguished Service?",
+    "options": [
+      "Leadership",
+      "Athletic ability",
+      "Computer skills",
+      "Driving skills"
+    ],
+    "answer": 0,
+    "explanation": "Leadership is one of the listed qualities."
+  },
+  {
+    "question": "The Police Medal for Meritorious Service encourages:",
+    "options": [
+      "Political leadership",
+      "Sincerity and dedication in policing",
+      "Business management",
+      "Military training"
+    ],
+    "answer": 1,
+    "explanation": "The purpose of this medal is to encourage sincerity and dedication in policing."
+  },
+  {
+    "question": "Which of the following is mentioned under the Police Medal for Meritorious Service?",
+    "options": [
+      "Honest work",
+      "Efficient service",
+      "Commitment to duty",
+      "All of the above"
+    ],
+    "answer": 3,
+    "explanation": "All three—honest work, commitment to duty and efficient service—are listed."
+  }
+]
+[
+  {
+    "question": "The Indian Police Medal was primarily instituted to recognize:",
+    "options": [
+      "Military achievements",
+      "Distinguished police service and gallantry",
+      "Sports excellence",
+      "Judicial service"
+    ],
+    "answer": 1,
+    "explanation": "The Indian Police Medal recognizes distinguished police service and gallantry."
+  },
+  {
+    "question": "Which international award mentioned in the chapter is awarded in the United Kingdom?",
+    "options": [
+      "National Medal of Valor",
+      "George Cross",
+      "President's Police Medal",
+      "Indian Police Medal"
+    ],
+    "answer": 1,
+    "explanation": "The George Cross is the highest civilian gallantry award of the United Kingdom."
+  },
+  {
+    "question": "The George Cross is awarded for:",
+    "options": [
+      "Long government service",
+      "Acts of the greatest heroism or courage",
+      "Academic excellence",
+      "Sports achievements"
+    ],
+    "answer": 1,
+    "explanation": "It recognizes the greatest acts of heroism and courage."
+  },
+  {
+    "question": "The National Medal of Valor mentioned in the chapter belongs to:",
+    "options": [
+      "India",
+      "United Kingdom",
+      "United States of America",
+      "Australia"
+    ],
+    "answer": 2,
+    "explanation": "The National Medal of Valor is associated with the USA."
+  },
+  {
+    "question": "The National Medal of Valor recognizes:",
+    "options": [
+      "Outstanding bravery by public safety officers",
+      "Best police administrator",
+      "Military commanders",
+      "Civil servants"
+    ],
+    "answer": 0,
+    "explanation": "It honours exceptional courage shown by public safety officers."
+  },
+  {
+    "question": "INTERPOL awards are associated with:",
+    "options": [
+      "International police cooperation",
+      "Sports competitions",
+      "Judicial appointments",
+      "Military promotions"
+    ],
+    "answer": 0,
+    "explanation": "INTERPOL promotes international police cooperation."
+  },
+  {
+    "question": "Which organization works to strengthen cooperation among police agencies across countries?",
+    "options": [
+      "UNESCO",
+      "INTERPOL",
+      "WHO",
+      "IMF"
+    ],
+    "answer": 1,
+    "explanation": "INTERPOL facilitates international police cooperation."
+  },
+  {
+    "question": "Which award specifically encourages integrity and dedication in policing?",
+    "options": [
+      "Police Medal for Meritorious Service",
+      "George Cross",
+      "National Medal of Valor",
+      "Param Vir Chakra"
+    ],
+    "answer": 0,
+    "explanation": "The Police Medal for Meritorious Service encourages dedication, honesty and efficient policing."
+  },
+  {
+    "question": "The President's Police Medal for Distinguished Service generally recognizes:",
+    "options": [
+      "Only acts of bravery",
+      "Long and distinguished service",
+      "Sports achievements",
+      "Administrative examinations"
+    ],
+    "answer": 1,
+    "explanation": "It recognizes long, distinguished and exceptional service."
+  },
+  {
+    "question": "Gallantry awards are primarily associated with:",
+    "options": [
+      "Administrative efficiency",
+      "Acts of courage and bravery",
+      "Financial management",
+      "Training performance"
+    ],
+    "answer": 1,
+    "explanation": "Gallantry awards recognize courage and bravery while performing duty."
+  },
+  {
+    "question": "Meritorious Service refers to:",
+    "options": [
+      "Dedicated and efficient service",
+      "Winning medals in sports",
+      "Political leadership",
+      "Judicial excellence"
+    ],
+    "answer": 0,
+    "explanation": "Meritorious service means sincere, efficient and dedicated performance of duty."
+  },
+  {
+    "question": "Which award is specifically linked with exceptional police bravery in India?",
+    "options": [
+      "President's Police Medal for Gallantry",
+      "Police Medal for Meritorious Service",
+      "Indian Police Medal",
+      "George Cross"
+    ],
+    "answer": 0,
+    "explanation": "The President's Police Medal for Gallantry honours exceptional police bravery."
+  },
+  {
+    "question": "The chapter compares Indian police awards with awards from:",
+    "options": [
+      "Only India",
+      "India, UK and USA",
+      "India and Australia",
+      "Only USA"
+    ],
+    "answer": 1,
+    "explanation": "The chapter mentions awards from India, the United Kingdom and the United States."
+  },
+  {
+    "question": "The primary purpose of police awards is to:",
+    "options": [
+      "Increase salary",
+      "Recognize outstanding service and motivate personnel",
+      "Provide promotions automatically",
+      "Reduce workload"
+    ],
+    "answer": 1,
+    "explanation": "Police awards recognize excellence and motivate officers to perform better."
+  },
+  {
+    "question": "Recognition through police awards mainly promotes:",
+    "options": [
+      "Professional excellence",
+      "Negligence",
+      "Political influence",
+      "Commercial success"
+    ],
+    "answer": 0,
+    "explanation": "Awards encourage professionalism, integrity and excellence in policing."
+  }
+]
