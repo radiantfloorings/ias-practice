@@ -1,0 +1,13 @@
+[
+  {
+    "question": "The George Cross belongs to which country?",
+    "options": [
+      "India",
+      "United Kingdom",
+      "USA",
+      "Canada"
+    ],
+    "answer": 1,
+    "explanation": "George Cross is the UK's highest civilian gallantry award."
+  }
+]
