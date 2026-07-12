@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Test Result</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>🎉 Test Completed</h1>
+</header>
+
+<div class="container">
+
+<div class="card">
+
+<h2>Your Score</h2>
+
+<h1 id="score">0 / 0</h1>
+
+<p id="percentage"></p>
+
+<a href="index.html">
+<button>Back to Home</button>
+</a>
+
+</div>
+
+</div>
+
+<script>
+const score = localStorage.getItem("score") || 0;
+const total = localStorage.getItem("total") || 0;
+
+document.getElementById("score").innerHTML = score + " / " + total;
+
+document.getElementById("percentage").innerHTML =
+"Percentage : " + ((score/total)*100).toFixed(2) + "%";
+</script>
+
+</body>
+</html>
