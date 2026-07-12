@@ -84,29 +84,10 @@ score++;
 
 });
 
-alert("Your Score : "+score+" / "+questions.length);
+localStorage.setItem("score",score);
+
+localStorage.setItem("total",questions.length);
+
+window.location="result.html";
 
 }
-
-loadQuestion();
-let time=1800;
-
-setInterval(function(){
-
-let minutes=Math.floor(time/60);
-
-let seconds=time%60;
-
-document.getElementById("timer").innerHTML=
-
-"Time Left : "+minutes+":"+(seconds<10?"0":"")+seconds;
-
-time--;
-
-if(time<0){
-
-submitQuiz();
-
-}
-
-},1000);
