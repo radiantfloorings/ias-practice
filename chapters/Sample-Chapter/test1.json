@@ -1,0 +1,24 @@
+[
+  {
+    "question": "Who is known as the Father of Indian Constitution?",
+    "options": [
+      "Mahatma Gandhi",
+      "Dr. B. R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": 1,
+    "explanation": "Dr. B. R. Ambedkar chaired the Drafting Committee."
+  },
+  {
+    "question": "Which medal is awarded for exceptional gallantry?",
+    "options": [
+      "Police Medal for Meritorious Service",
+      "President's Police Medal for Gallantry",
+      "Police Service Medal",
+      "National Service Medal"
+    ],
+    "answer": 1,
+    "explanation": "It recognizes exceptional bravery."
+  }
+]
