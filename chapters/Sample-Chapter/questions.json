@@ -1,279 +1,1936 @@
 [
   {
-    "question": "Which is one of the highest police awards in India?",
+    "id": 201,
+    "question": "Which is one of the highest police awards in India for exceptional bravery?",
     "options": [
-      "Police Medal for Meritorious Service",
       "President's Police Medal for Gallantry",
+      "Police Medal for Meritorious Service",
       "Indian Police Medal",
+      "President's Police Medal for Distinguished Service"
+    ],
+    "answer": 0,
+    "explanation": "The President's Police Medal for Gallantry is awarded for exceptional bravery and courage in dangerous situations."
+  },
+  {
+    "id": 202,
+    "question": "The President's Police Medal for Gallantry primarily recognizes police personnel for:",
+    "options": [
+      "Long administrative service",
+      "Outstanding bravery while performing duty",
+      "Excellent investigation skills",
+      "Maintaining police records"
+    ],
+    "answer": 1,
+    "explanation": "It is awarded for exceptional courage and risking one's life during duty."
+  },
+  {
+    "id": 203,
+    "question": "Which police award is specifically given for fighting criminals and saving lives?",
+    "options": [
+      "Police Medal for Gallantry",
+      "Police Medal for Meritorious Service",
+      "President's Police Medal for Distinguished Service",
       "George Cross"
     ],
-    "answer": 1,
-    "explanation": "The President's Police Medal for Gallantry is one of the highest police awards in India."
-  },
-  {
-    "question": "The President's Police Medal for Gallantry is awarded mainly for:",
-    "options": [
-      "Long service",
-      "Exceptional bravery",
-      "Good administration",
-      "Training excellence"
-    ],
-    "answer": 1,
-    "explanation": "It is awarded for exceptional bravery and courage during dangerous situations."
-  },
-  {
-    "question": "Which of the following is NOT mentioned as a criterion for the President's Police Medal for Gallantry?",
-    "options": [
-      "Exceptional bravery",
-      "Protecting people",
-      "Maintaining safety",
-      "Excellent office management"
-    ],
-    "answer": 3,
-    "explanation": "Office management is not mentioned as a criterion."
-  },
-  {
-    "question": "The President's Police Medal for Gallantry honours officers who:",
-    "options": [
-      "Complete 20 years of service",
-      "Risk their lives while performing duty",
-      "Train new recruits",
-      "Work in headquarters"
-    ],
-    "answer": 1,
-    "explanation": "The medal honours police officers who risk their lives while performing duty."
-  },
-  {
-    "question": "The Police Medal for Gallantry is awarded for:",
-    "options": [
-      "Administrative work",
-      "Acts of bravery and courage",
-      "Excellent investigation reports",
-      "Long service"
-    ],
-    "answer": 1,
-    "explanation": "It recognizes acts of bravery and courage."
-  },
-  {
-    "question": "One purpose of the Police Medal for Gallantry is to recognize:",
-    "options": [
-      "Office discipline",
-      "Heroic actions by police officers",
-      "Promotion eligibility",
-      "Sports achievements"
-    ],
-    "answer": 1,
-    "explanation": "Its purpose is to recognize heroic actions performed by police officers."
-  },
-  {
-    "question": "The President's Police Medal for Distinguished Service is awarded for:",
-    "options": [
-      "Excellent and long service",
-      "Winning competitions",
-      "Completing police training",
-      "Office attendance"
-    ],
     "answer": 0,
-    "explanation": "It recognizes excellent and long service in the police department."
+    "explanation": "The Police Medal for Gallantry recognizes acts of bravery including fighting criminals and saving lives."
   },
   {
-    "question": "Which quality is specifically mentioned for the President's Police Medal for Distinguished Service?",
+    "id": 204,
+    "question": "The purpose of the Police Medal for Gallantry is to:",
+    "options": [
+      "Reward long service",
+      "Recognize heroic actions by police officers",
+      "Promote police administration",
+      "Honor retired officers"
+    ],
+    "answer": 1,
+    "explanation": "It honors police personnel for courageous and heroic actions."
+  },
+  {
+    "id": 205,
+    "question": "The President's Police Medal for Distinguished Service is awarded mainly for:",
+    "options": [
+      "Sports achievements",
+      "Outstanding and long service",
+      "International cooperation",
+      "Disaster management only"
+    ],
+    "answer": 1,
+    "explanation": "It recognizes officers with an outstanding and distinguished service record."
+  },
+  {
+    "id": 206,
+    "question": "Which of the following is NOT a criterion for the President's Police Medal for Distinguished Service?",
     "options": [
       "Leadership",
-      "Athletic ability",
-      "Computer skills",
-      "Driving skills"
-    ],
-    "answer": 0,
-    "explanation": "Leadership is one of the listed qualities."
-  },
-  {
-    "question": "The Police Medal for Meritorious Service encourages:",
-    "options": [
-      "Political leadership",
-      "Sincerity and dedication in policing",
-      "Business management",
-      "Military training"
-    ],
-    "answer": 1,
-    "explanation": "The purpose of this medal is to encourage sincerity and dedication in policing."
-  },
-  {
-    "question": "Which of the following is mentioned under the Police Medal for Meritorious Service?",
-    "options": [
-      "Honest work",
-      "Efficient service",
-      "Commitment to duty",
-      "All of the above"
+      "Dedication",
+      "Discipline",
+      "Winning elections"
     ],
     "answer": 3,
-    "explanation": "All three—honest work, commitment to duty and efficient service—are listed."
+    "explanation": "The award is based on leadership, dedication and distinguished service, not elections."
+  },
+  {
+    "id": 207,
+    "question": "Which police award encourages honesty, commitment and efficient service?",
+    "options": [
+      "Police Medal for Meritorious Service",
+      "Police Medal for Gallantry",
+      "George Cross",
+      "National Medal of Valor"
+    ],
+    "answer": 0,
+    "explanation": "The Police Medal for Meritorious Service recognizes valuable and dedicated service."
+  },
+  {
+    "id": 208,
+    "question": "The Police Medal for Meritorious Service is awarded for:",
+    "options": [
+      "International policing",
+      "Efficient and dedicated service",
+      "Military operations",
+      "Sports excellence"
+    ],
+    "answer": 1,
+    "explanation": "It honors police personnel for sincere and efficient service."
+  },
+  {
+    "id": 209,
+    "question": "The Indian Police Medal recognizes:",
+    "options": [
+      "Good service, bravery and commitment to public safety",
+      "Only anti-terror operations",
+      "Only retired police officers",
+      "Only IPS officers"
+    ],
+    "answer": 0,
+    "explanation": "The Indian Police Medal recognizes important contributions including bravery and public safety."
+  },
+  {
+    "id": 210,
+    "question": "The main importance of the Indian Police Medal is to:",
+    "options": [
+      "Promote sports",
+      "Motivate police officers to serve society better",
+      "Reward politicians",
+      "Encourage business"
+    ],
+    "answer": 1,
+    "explanation": "The medal motivates police personnel to continue serving society effectively."
+  },
+  {
+    "id": 211,
+    "question": "Which country's highest civilian bravery award can also be awarded to police personnel?",
+    "options": [
+      "USA",
+      "France",
+      "Germany",
+      "United Kingdom"
+    ],
+    "answer": 3,
+    "explanation": "The George Cross of the United Kingdom can also be awarded to police personnel."
+  },
+  {
+    "id": 212,
+    "question": "The George Cross is awarded for:",
+    "options": [
+      "Long service",
+      "Great courage and heroic actions",
+      "Scientific achievements",
+      "Literary excellence"
+    ],
+    "answer": 1,
+    "explanation": "The George Cross honors exceptional courage in dangerous situations."
+  },
+  {
+    "id": 213,
+    "question": "The National Medal of Valor belongs to which country?",
+    "options": [
+      "France",
+      "United Kingdom",
+      "United States",
+      "Canada"
+    ],
+    "answer": 2,
+    "explanation": "The National Medal of Valor is awarded in the United States."
+  },
+  {
+    "id": 214,
+    "question": "The National Medal of Valor honors:",
+    "options": [
+      "Scientists",
+      "Teachers",
+      "Brave public safety officers",
+      "Judges"
+    ],
+    "answer": 2,
+    "explanation": "It recognizes extraordinary courage shown by public safety personnel."
+  },
+  {
+    "id": 215,
+    "question": "Who among the following can receive the National Medal of Valor?",
+    "options": [
+      "Police officers only",
+      "Police officers, firefighters and rescue personnel",
+      "Teachers only",
+      "Army officers only"
+    ],
+    "answer": 1,
+    "explanation": "The award recognizes bravery shown by police, firefighters and rescue personnel."
+  },
+  {
+    "id": 216,
+    "question": "INTERPOL Awards mainly recognize:",
+    "options": [
+      "International police cooperation",
+      "Military victories",
+      "Political leadership",
+      "Business innovation"
+    ],
+    "answer": 0,
+    "explanation": "INTERPOL Awards recognize excellence in international policing and law enforcement cooperation."
+  },
+  {
+    "id": 217,
+    "question": "INTERPOL Awards encourage countries to:",
+    "options": [
+      "Increase tourism",
+      "Promote sports",
+      "Work together against crime",
+      "Increase exports"
+    ],
+    "answer": 2,
+    "explanation": "Their objective is to strengthen international cooperation against crime."
+  },
+  {
+    "id": 218,
+    "question": "Which pair is correctly matched?",
+    "options": [
+      "George Cross — USA",
+      "National Medal of Valor — UK",
+      "INTERPOL Awards — International police cooperation",
+      "Police Medal for Gallantry — Long service"
+    ],
+    "answer": 2,
+    "explanation": "INTERPOL Awards recognize international cooperation in law enforcement."
+  },
+  {
+    "id": 219,
+    "question": "Arrange the following Indian police awards according to their purpose.\n1. Police Medal for Gallantry\n2. Police Medal for Meritorious Service\n3. President's Police Medal for Distinguished Service\nChoose the correct sequence matching: Bravery, Dedicated Service, Distinguished Long Service.",
+    "options": [
+      "1-2-3",
+      "2-1-3",
+      "3-2-1",
+      "2-3-1"
+    ],
+    "answer": 0,
+    "explanation": "Gallantry = Bravery, Meritorious Service = Dedicated Service, Distinguished Service = Long and Outstanding Service."
+  },
+  {
+    "id": 220,
+    "question": "Which one of the following statements is correct?",
+    "options": [
+      "George Cross is India's highest police award.",
+      "INTERPOL Awards recognize international law enforcement cooperation.",
+      "Police Medal for Gallantry is awarded only after retirement.",
+      "National Medal of Valor is awarded by INTERPOL."
+    ],
+    "answer": 1,
+    "explanation": "INTERPOL Awards encourage international cooperation among police agencies to combat global crime."
   }
 ]
 [
   {
-    "question": "The Indian Police Medal was primarily instituted to recognize:",
-    "options": [
-      "Military achievements",
-      "Distinguished police service and gallantry",
-      "Sports excellence",
-      "Judicial service"
-    ],
-    "answer": 1,
-    "explanation": "The Indian Police Medal recognizes distinguished police service and gallantry."
+    "id": 221,
+    "question": "The President's Police Medal for Gallantry is awarded for:",
+    "options": ["Long service", "Administrative excellence", "Exceptional bravery", "Sports achievement"],
+    "answer": "Exceptional bravery",
+    "explanation": "The President's Police Medal for Gallantry recognizes exceptional bravery by police personnel."
   },
   {
-    "question": "Which international award mentioned in the chapter is awarded in the United Kingdom?",
+    "id": 222,
+    "question": "Which police award recognizes long and distinguished service?",
+    "options": ["Police Medal for Gallantry", "President's Police Medal for Distinguished Service", "Indian Police Medal", "Shaurya Chakra"],
+    "answer": "President's Police Medal for Distinguished Service",
+    "explanation": "It is awarded for outstanding and distinguished service in the police department."
+  },
+  {
+    "id": 223,
+    "question": "The Police Medal for Meritorious Service is awarded for:",
+    "options": ["Military bravery", "Efficient and dedicated police service", "Sports coaching", "Literary excellence"],
+    "answer": "Efficient and dedicated police service",
+    "explanation": "The award recognizes honest, committed and efficient police service."
+  },
+  {
+    "id": 224,
+    "question": "The Indian Police Medal mainly recognizes:",
+    "options": ["Scientific research", "Bravery and public safety", "Sports excellence", "Business innovation"],
+    "answer": "Bravery and public safety",
+    "explanation": "The Indian Police Medal recognizes good service, bravery and commitment to public safety."
+  },
+  {
+    "id": 225,
+    "question": "The George Cross is associated with which country?",
+    "options": ["USA", "France", "United Kingdom", "Germany"],
+    "answer": "United Kingdom",
+    "explanation": "The George Cross is one of the highest civilian bravery awards in the UK."
+  },
+  {
+    "id": 226,
+    "question": "The George Cross can also be awarded to:",
+    "options": ["Teachers", "Police personnel", "Scientists only", "Business leaders"],
+    "answer": "Police personnel",
+    "explanation": "Police personnel may receive the George Cross for extraordinary bravery."
+  },
+  {
+    "id": 227,
+    "question": "The National Medal of Valor belongs to:",
+    "options": ["France", "Germany", "USA", "Japan"],
+    "answer": "USA",
+    "explanation": "The National Medal of Valor honors brave public safety officers in the United States."
+  },
+  {
+    "id": 228,
+    "question": "Who among the following can receive the National Medal of Valor?",
+    "options": ["Police officers", "Firefighters", "Rescue personnel", "All of these"],
+    "answer": "All of these",
+    "explanation": "Police officers, firefighters and rescue personnel are eligible."
+  },
+  {
+    "id": 229,
+    "question": "INTERPOL Awards primarily recognize:",
+    "options": ["Medical achievements", "International police cooperation", "Sports achievements", "Environmental protection"],
+    "answer": "International police cooperation",
+    "explanation": "They encourage international cooperation against crime."
+  },
+  {
+    "id": 230,
+    "question": "Which organization is associated with global police cooperation awards?",
+    "options": ["UNESCO", "INTERPOL", "FIFA", "UNICEF"],
+    "answer": "INTERPOL",
+    "explanation": "INTERPOL promotes international law enforcement cooperation."
+  },
+  {
+    "id": 231,
+    "question": "India's highest wartime gallantry award is:",
+    "options": ["Ashok Chakra", "Param Vir Chakra", "Maha Vir Chakra", "Vir Chakra"],
+    "answer": "Param Vir Chakra",
+    "explanation": "The Param Vir Chakra is India's highest wartime gallantry award."
+  },
+  {
+    "id": 232,
+    "question": "The Maha Vir Chakra ranks as India's:",
+    "options": ["Highest wartime award", "Second-highest wartime gallantry award", "Third-highest wartime gallantry award", "Highest peacetime award"],
+    "answer": "Second-highest wartime gallantry award",
+    "explanation": "The Maha Vir Chakra is India's second-highest wartime gallantry award."
+  },
+  {
+    "id": 233,
+    "question": "The Vir Chakra is awarded for:",
+    "options": ["Administrative service", "Battlefield bravery", "Scientific innovation", "Teaching excellence"],
+    "answer": "Battlefield bravery",
+    "explanation": "The Vir Chakra recognizes acts of bravery during military operations."
+  },
+  {
+    "id": 234,
+    "question": "Which is India's highest peacetime gallantry award?",
+    "options": ["Kirti Chakra", "Ashok Chakra", "Shaurya Chakra", "Param Vir Chakra"],
+    "answer": "Ashok Chakra",
+    "explanation": "The Ashok Chakra is the highest peacetime gallantry award."
+  },
+  {
+    "id": 235,
+    "question": "The Ashok Chakra is considered equivalent to which wartime award?",
+    "options": ["Vir Chakra", "Maha Vir Chakra", "Param Vir Chakra", "Kirti Chakra"],
+    "answer": "Param Vir Chakra",
+    "explanation": "The Ashok Chakra is regarded as the peacetime equivalent of the Param Vir Chakra."
+  },
+  {
+    "id": 236,
+    "question": "India's second-highest peacetime gallantry award is:",
+    "options": ["Kirti Chakra", "Shaurya Chakra", "Vir Chakra", "Ashok Chakra"],
+    "answer": "Kirti Chakra",
+    "explanation": "The Kirti Chakra is India's second-highest peacetime gallantry award."
+  },
+  {
+    "id": 237,
+    "question": "The Shaurya Chakra recognizes:",
+    "options": ["Bravery during difficult situations", "Sports coaching", "Scientific research", "Teaching excellence"],
+    "answer": "Bravery during difficult situations",
+    "explanation": "The Shaurya Chakra honors courage and self-sacrifice."
+  },
+  {
+    "id": 238,
+    "question": "The Victoria Cross belongs to:",
+    "options": ["France", "Germany", "United Kingdom", "Russia"],
+    "answer": "United Kingdom",
+    "explanation": "The Victoria Cross is the UK's highest military gallantry award."
+  },
+  {
+    "id": 239,
+    "question": "The Medal of Honor is the highest military award of:",
+    "options": ["France", "USA", "India", "Australia"],
+    "answer": "USA",
+    "explanation": "The Medal of Honor is the highest military decoration in the United States."
+  },
+  {
+    "id": 240,
+    "question": "Which French award was established by Napoleon Bonaparte?",
+    "options": ["Iron Cross", "George Cross", "Legion of Honour", "Victoria Cross"],
+    "answer": "Legion of Honour",
+    "explanation": "The Legion of Honour is France's highest award and was established by Napoleon Bonaparte."
+  }
+]
+[
+  {
+    "id": 241,
+    "question": "Which award is regarded as India's highest civilian honour?",
+    "options": ["Padma Shri", "Padma Bhushan", "Bharat Ratna", "Padma Vibhushan"],
+    "answer": 2,
+    "explanation": "Bharat Ratna is India's highest civilian award."
+  },
+  {
+    "id": 242,
+    "question": "The Bharat Ratna is awarded for excellence in:",
+    "options": ["Arts only", "Science only", "Public Service only", "Exceptional service in any field of human endeavour"],
+    "answer": 3,
+    "explanation": "It recognizes exceptional service in any field of human endeavour."
+  },
+  {
+    "id": 243,
+    "question": "Which organization presents the Shanti Swarup Bhatnagar Prize?",
+    "options": ["UGC", "CSIR", "ICMR", "DRDO"],
+    "answer": 1,
+    "explanation": "The prize is awarded by the Council of Scientific and Industrial Research (CSIR)."
+  },
+  {
+    "id": 244,
+    "question": "The Shanti Swarup Bhatnagar Prize is awarded primarily for:",
+    "options": ["Sports", "Scientific Research", "Literature", "Film"],
+    "answer": 1,
+    "explanation": "It is India's premier science award for outstanding research."
+  },
+  {
+    "id": 245,
+    "question": "Which of the following is NOT a category of the Nobel Prize?",
+    "options": ["Physics", "Chemistry", "Mathematics", "Medicine"],
+    "answer": 2,
+    "explanation": "There is no Nobel Prize in Mathematics."
+  },
+  {
+    "id": 246,
+    "question": "The Nobel Peace Prize is awarded in:",
+    "options": ["Stockholm", "Oslo", "Geneva", "Paris"],
+    "answer": 1,
+    "explanation": "The Nobel Peace Prize is awarded in Oslo, Norway."
+  },
+  {
+    "id": 247,
+    "question": "The Nobel Prize in Literature is selected by the:",
+    "options": ["Royal Society", "Swedish Academy", "UNESCO", "Oxford University"],
+    "answer": 1,
+    "explanation": "The Swedish Academy selects the Literature Nobel."
+  },
+  {
+    "id": 248,
+    "question": "Who established the Nobel Prizes through his will?",
+    "options": ["Albert Einstein", "Alfred Nobel", "Isaac Newton", "Thomas Edison"],
+    "answer": 1,
+    "explanation": "The Nobel Prizes were established by Alfred Nobel."
+  },
+  {
+    "id": 249,
+    "question": "The Nobel Prize in Physics recognizes outstanding contributions in:",
+    "options": ["Engineering", "Physics", "Astronomy only", "Mathematics"],
+    "answer": 1,
+    "explanation": "It recognizes remarkable achievements in Physics."
+  },
+  {
+    "id": 250,
+    "question": "The Nobel Prize in Chemistry is awarded for:",
+    "options": ["Medical discoveries", "Chemical sciences", "Engineering", "Agriculture"],
+    "answer": 1,
+    "explanation": "It honors outstanding achievements in Chemistry."
+  },
+  {
+    "id": 251,
+    "question": "The Nobel Prize in Physiology or Medicine recognizes:",
+    "options": ["Medical science", "Sports medicine", "Veterinary science only", "Public health only"],
+    "answer": 0,
+    "explanation": "It honors major contributions to physiology or medicine."
+  },
+  {
+    "id": 252,
+    "question": "The Ramon Magsaysay Award is popularly known as:",
+    "options": ["Asia's Nobel Prize", "Peace Medal", "Asian Excellence Award", "Orient Award"],
+    "answer": 0,
+    "explanation": "It is often called Asia's Nobel Prize."
+  },
+  {
+    "id": 253,
+    "question": "The Ramon Magsaysay Award is named after the former President of:",
+    "options": ["Thailand", "Philippines", "Indonesia", "Malaysia"],
+    "answer": 1,
+    "explanation": "It is named after Philippine President Ramon Magsaysay."
+  },
+  {
+    "id": 254,
+    "question": "The Right Livelihood Award is often referred to as:",
+    "options": ["Green Nobel", "Alternative Nobel Prize", "Global Peace Medal", "Freedom Award"],
+    "answer": 1,
+    "explanation": "It is popularly called the Alternative Nobel Prize."
+  },
+  {
+    "id": 255,
+    "question": "The Right Livelihood Award recognizes contributions towards:",
+    "options": ["Entertainment", "Peace and Sustainability", "Sports", "Business"],
+    "answer": 1,
+    "explanation": "It honors work in peace, justice, sustainability and human rights."
+  },
+  {
+    "id": 256,
+    "question": "Which award specifically recognizes contributions in Human Rights and Environmental Protection?",
+    "options": ["Padma Shri", "Right Livelihood Award", "Filmfare Award", "Arjuna Award"],
+    "answer": 1,
+    "explanation": "The Right Livelihood Award recognizes these contributions."
+  },
+  {
+    "id": 257,
+    "question": "Which Indian award recognizes outstanding scientific innovation?",
+    "options": ["CSIR Awards", "Filmfare Awards", "Tony Awards", "Grammy Awards"],
+    "answer": 0,
+    "explanation": "CSIR Awards promote scientific innovation and research."
+  },
+  {
+    "id": 258,
+    "question": "The CSIR Awards encourage excellence in:",
+    "options": ["Music", "Science and Technology", "Sports", "Cinema"],
+    "answer": 1,
+    "explanation": "They recognize scientific research and technological innovation."
+  },
+  {
+    "id": 259,
+    "question": "Which award among the following is India's highest civilian honour?",
+    "options": ["Padma Bhushan", "Padma Shri", "Padma Vibhushan", "Bharat Ratna"],
+    "answer": 3,
+    "explanation": "Bharat Ratna is the highest civilian honour in India."
+  },
+  {
+    "id": 260,
+    "question": "Which award is popularly called the 'Alternative Nobel Prize'?",
+    "options": ["Ramon Magsaysay Award", "Right Livelihood Award", "Goldman Environmental Prize", "Pulitzer Prize"],
+    "answer": 1,
+    "explanation": "The Right Livelihood Award is widely known as the Alternative Nobel Prize."
+  }
+]
+[
+  {
+    "id": 281,
+    "question": "History is primarily the study of:",
+    "options": ["Future events", "Past events", "Natural disasters only", "Religious beliefs only"],
+    "answer": "Past events",
+    "explanation": "History is the study of past events, especially those related to human societies."
+  },
+  {
+    "id": 282,
+    "question": "History helps us understand:",
+    "options": ["Only ancient wars", "Only kings and queens", "Past, present, and future connections", "Only religious practices"],
+    "answer": "Past, present, and future connections",
+    "explanation": "History explains how past events influence the present and future."
+  },
+  {
+    "id": 283,
+    "question": "Depending on authentication, history is divided into how many types?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "explanation": "The three types are Prehistory, Protohistory, and History."
+  },
+  {
+    "id": 284,
+    "question": "Which type of history has no written records and no deciphered evidence?",
+    "options": ["History", "Protohistory", "Prehistory", "Modern history"],
+    "answer": "Prehistory",
+    "explanation": "Prehistory has no written records and is known only through archaeological evidence."
+  },
+  {
+    "id": 285,
+    "question": "Protohistory refers to the period where:",
+    "options": ["No evidence exists", "Evidence exists but script is undeciphered", "Everything is fully documented", "Only oral traditions exist"],
+    "answer": "Evidence exists but script is undeciphered",
+    "explanation": "Protohistory includes civilizations with undeciphered scripts like the Indus Valley Civilization."
+  },
+  {
+    "id": 286,
+    "question": "History begins when:",
+    "options": ["Agriculture starts", "Writing is deciphered", "Humans discover fire", "Metals are discovered"],
+    "answer": "Writing is deciphered",
+    "explanation": "Historical period begins when written records can be read and interpreted."
+  },
+  {
+    "id": 287,
+    "question": "Indian history is broadly classified into:",
+    "options": ["Stone, Bronze and Iron Ages", "Ancient, Medieval and Modern India", "Prehistoric and Historic", "Religious and Political periods"],
+    "answer": "Ancient, Medieval and Modern India",
+    "explanation": "Indian history is divided into Ancient, Medieval and Modern periods."
+  },
+  {
+    "id": 288,
+    "question": "Historical sources are materials used to:",
+    "options": ["Predict the future", "Understand the past", "Create laws", "Write novels"],
+    "answer": "Understand the past",
+    "explanation": "Historical sources provide information about past events."
+  },
+  {
+    "id": 289,
+    "question": "Historical sources are broadly divided into:",
+    "options": ["Ancient and Modern", "Literary and Archaeological", "Political and Religious", "Indian and Foreign"],
+    "answer": "Literary and Archaeological",
+    "explanation": "These are the two main categories of historical sources."
+  },
+  {
+    "id": 290,
+    "question": "Which of the following is NOT one of the four major historical sources?",
+    "options": ["Inscriptions", "Numismatics", "Astronomy", "Art and Architecture"],
+    "answer": "Astronomy",
+    "explanation": "Astronomy is not classified as a historical source."
+  },
+  {
+    "id": 291,
+    "question": "The study of coins is known as:",
+    "options": ["Epigraphy", "Numismatics", "Archaeology", "Paleography"],
+    "answer": "Numismatics",
+    "explanation": "Numismatics deals with coins and currency."
+  },
+  {
+    "id": 292,
+    "question": "The study of inscriptions is called:",
+    "options": ["Numismatics", "Epigraphy", "Archaeology", "Anthropology"],
+    "answer": "Epigraphy",
+    "explanation": "Epigraphy is the study of inscriptions."
+  },
+  {
+    "id": 293,
+    "question": "Which of the following is a literary source?",
+    "options": ["Coins", "Temples", "Vedas", "Pottery"],
+    "answer": "Vedas",
+    "explanation": "The Vedas are literary sources of ancient Indian history."
+  },
+  {
+    "id": 294,
+    "question": "Indian literary sources are divided into:",
+    "options": ["Ancient and Modern", "Religious and Secular", "North and South", "Political and Military"],
+    "answer": "Religious and Secular",
+    "explanation": "Indian literary sources are classified into religious and secular works."
+  },
+  {
+    "id": 295,
+    "question": "Religious literary sources mainly provide information about:",
+    "options": ["Only wars", "Religion, philosophy, society and economy", "Only trade", "Only kings"],
+    "answer": "Religion, philosophy, society and economy",
+    "explanation": "Religious texts contain valuable social, political and economic information."
+  },
+  {
+    "id": 296,
+    "question": "Which of the following is NOT a religious literary source?",
+    "options": ["Vedas", "Tripitaka", "Jataka Tales", "Arthashastra"],
+    "answer": "Arthashastra",
+    "explanation": "Arthashastra is considered a secular political text."
+  },
+  {
+    "id": 297,
+    "question": "Foreign literary sources include accounts written by:",
+    "options": ["Only Indian kings", "Greek, Roman and Chinese travellers", "Only Buddhist monks", "Only Mughal emperors"],
+    "answer": "Greek, Roman and Chinese travellers",
+    "explanation": "Many foreign travellers documented Indian history."
+  },
+  {
+    "id": 298,
+    "question": "Which among the following is an archaeological source?",
+    "options": ["Vedas", "Coins", "Mahabharata", "Tripitaka"],
+    "answer": "Coins",
+    "explanation": "Coins are archaeological sources studied under numismatics."
+  },
+  {
+    "id": 299,
+    "question": "Art and architecture help historians understand:",
+    "options": ["Only military history", "Culture and civilization", "Only trade", "Only agriculture"],
+    "answer": "Culture and civilization",
+    "explanation": "Buildings, sculptures and monuments reveal social and cultural developments."
+  },
+  {
+    "id": 300,
+    "question": "Which combination correctly represents the four major historical sources?",
     "options": [
-      "National Medal of Valor",
-      "George Cross",
-      "President's Police Medal",
+      "Literature, Inscriptions, Art & Architecture, Numismatics",
+      "Coins, Kings, Temples, Rivers",
+      "Wars, Religion, Politics, Trade",
+      "Agriculture, Industry, Commerce, Science"
+    ],
+    "answer": "Literature, Inscriptions, Art & Architecture, Numismatics",
+    "explanation": "These are the four major categories of historical sources according to your IAS notes."
+  }
+]
+
+[
+  {
+    "id": 301,
+    "question": "Indian religious literary sources are mainly divided into:",
+    "options": ["Hindu and Muslim", "Religious and Secular", "Hindu, Buddhist and Jain", "Ancient and Modern"],
+    "answer": "Hindu, Buddhist and Jain",
+    "explanation": "Religious literary sources mainly include Hindu, Buddhist and Jain literature."
+  },
+  {
+    "id": 302,
+    "question": "Which is the oldest Veda?",
+    "options": ["Yajurveda", "Samaveda", "Rigveda", "Atharvaveda"],
+    "answer": "Rigveda",
+    "explanation": "Rigveda is the oldest Veda and provides valuable information about early Aryan society."
+  },
+  {
+    "id": 303,
+    "question": "Rigveda mainly provides information about:",
+    "options": ["Temple architecture", "Early Aryan society", "Mughal administration", "Gupta Empire"],
+    "answer": "Early Aryan society",
+    "explanation": "Rigveda is the principal source for understanding the early Vedic period."
+  },
+  {
+    "id": 304,
+    "question": "Which Veda mainly deals with sacrificial rituals?",
+    "options": ["Rigveda", "Atharvaveda", "Yajurveda", "Samaveda"],
+    "answer": "Yajurveda",
+    "explanation": "Yajurveda contains hymns and formulas used during sacrifices."
+  },
+  {
+    "id": 305,
+    "question": "Samaveda is mainly associated with:",
+    "options": ["Medicine", "Magic", "Melodies and chants", "Political philosophy"],
+    "answer": "Melodies and chants",
+    "explanation": "Samaveda is known as the Veda of music and chanting."
+  },
+  {
+    "id": 306,
+    "question": "Atharvaveda mainly contains information related to:",
+    "options": ["Astronomy", "Magic and medicine", "Architecture", "Trade"],
+    "answer": "Magic and medicine",
+    "explanation": "Atharvaveda includes hymns related to healing, magic and daily life."
+  },
+  {
+    "id": 307,
+    "question": "The Brahmanas are mainly associated with:",
+    "options": ["Military strategy", "Explanation of Vedic rituals", "Mathematics", "Trade routes"],
+    "answer": "Explanation of Vedic rituals",
+    "explanation": "Brahmanas explain the rituals and ceremonies described in the Vedas."
+  },
+  {
+    "id": 308,
+    "question": "Aranyakas are also known as:",
+    "options": ["Forest texts", "War manuals", "Temple records", "Royal chronicles"],
+    "answer": "Forest texts",
+    "explanation": "Aranyakas were composed for people living in forests and focus on meditation and philosophy."
+  },
+  {
+    "id": 309,
+    "question": "Upanishads primarily deal with:",
+    "options": ["Agriculture", "Philosophy and spirituality", "Trade", "Military campaigns"],
+    "answer": "Philosophy and spirituality",
+    "explanation": "Upanishads discuss the nature of reality, soul and ultimate truth."
+  },
+  {
+    "id": 310,
+    "question": "Which of the following are India's two great epics?",
+    "options": ["Rigveda and Samaveda", "Ramayana and Mahabharata", "Tripitaka and Jataka", "Puranas and Arthashastra"],
+    "answer": "Ramayana and Mahabharata",
+    "explanation": "Ramayana and Mahabharata are the two great epics of India."
+  },
+  {
+    "id": 311,
+    "question": "The Puranas mainly contain:",
+    "options": ["Scientific formulas", "Mythology, legends and genealogies", "Trade records", "Court judgments"],
+    "answer": "Mythology, legends and genealogies",
+    "explanation": "The Puranas preserve myths, traditions and dynastic histories."
+  },
+  {
+    "id": 312,
+    "question": "The Tripitaka is the sacred literature of:",
+    "options": ["Hinduism", "Jainism", "Buddhism", "Sikhism"],
+    "answer": "Buddhism",
+    "explanation": "Tripitaka is the principal scripture of Buddhism."
+  },
+  {
+    "id": 313,
+    "question": "Jataka Tales describe:",
+    "options": ["Life of Ashoka", "Previous births of Buddha", "Life of Mahavira", "Stories of Akbar"],
+    "answer": "Previous births of Buddha",
+    "explanation": "Jataka Tales narrate the previous births of Gautama Buddha."
+  },
+  {
+    "id": 314,
+    "question": "Jain literature mainly provides information about the teachings of:",
+    "options": ["Guru Nanak", "Mahavira and Jain philosophy", "Kabir", "Chanakya"],
+    "answer": "Mahavira and Jain philosophy",
+    "explanation": "Jain texts explain the life and teachings of Mahavira and Jain principles."
+  },
+  {
+    "id": 315,
+    "question": "Which Veda is often called the oldest literary source of Indian history?",
+    "options": ["Atharvaveda", "Samaveda", "Rigveda", "Yajurveda"],
+    "answer": "Rigveda",
+    "explanation": "Rigveda is regarded as the oldest literary source for ancient Indian history."
+  },
+  {
+    "id": 316,
+    "question": "Which literary source is most useful for studying early Aryan civilization?",
+    "options": ["Tripitaka", "Rigveda", "Puranas", "Arthashastra"],
+    "answer": "Rigveda",
+    "explanation": "Rigveda contains valuable information on the social, political and religious life of early Aryans."
+  },
+  {
+    "id": 317,
+    "question": "The Upanishads are collectively known as:",
+    "options": ["Vedanta", "Tripitaka", "Puranas", "Jatakas"],
+    "answer": "Vedanta",
+    "explanation": "Upanishads form the philosophical conclusion (Vedanta) of the Vedas."
+  },
+  {
+    "id": 318,
+    "question": "Which of the following is NOT one of the four Vedas?",
+    "options": ["Rigveda", "Samaveda", "Tripitaka", "Atharvaveda"],
+    "answer": "Tripitaka",
+    "explanation": "Tripitaka belongs to Buddhist literature, not the Vedas."
+  },
+  {
+    "id": 319,
+    "question": "Religious literary sources provide information about:",
+    "options": ["Only religion", "Religion, philosophy, society, economy and politics", "Only kings", "Only trade"],
+    "answer": "Religion, philosophy, society, economy and politics",
+    "explanation": "These texts are valuable sources for understanding many aspects of ancient Indian life."
+  },
+  {
+    "id": 320,
+    "question": "Which sequence correctly represents the four Vedas?",
+    "options": [
+      "Rigveda, Yajurveda, Samaveda, Atharvaveda",
+      "Rigveda, Samaveda, Arthashastra, Atharvaveda",
+      "Yajurveda, Ramayana, Mahabharata, Atharvaveda",
+      "Rigveda, Tripitaka, Samaveda, Puranas"
+    ],
+    "answer": "Rigveda, Yajurveda, Samaveda, Atharvaveda",
+    "explanation": "The four Vedas are Rigveda, Yajurveda, Samaveda and Atharvaveda."
+  }
+]
+
+[
+  {
+    "id": 321,
+    "question": "Indian secular literary sources mainly provide information about:",
+    "options": ["Religious rituals only", "Political, social and historical events", "Temple worship only", "Yoga practices only"],
+    "answer": "Political, social and historical events",
+    "explanation": "Secular literature mainly describes administration, politics, economy and historical events."
+  },
+  {
+    "id": 322,
+    "question": "Which of the following is an example of a secular literary source?",
+    "options": ["Rigveda", "Tripitaka", "Arthashastra", "Upanishads"],
+    "answer": "Arthashastra",
+    "explanation": "Arthashastra is a secular political treatise written by Kautilya."
+  },
+  {
+    "id": 323,
+    "question": "Who wrote the famous political treatise 'Arthashastra'?",
+    "options": ["Kalidasa", "Chanakya (Kautilya)", "Banabhatta", "Megasthenes"],
+    "answer": "Chanakya (Kautilya)",
+    "explanation": "Kautilya, also known as Chanakya, authored Arthashastra during the Mauryan period."
+  },
+  {
+    "id": 324,
+    "question": "Arthashastra mainly deals with:",
+    "options": ["Music", "Statecraft, administration and economics", "Religious rituals", "Temple architecture"],
+    "answer": "Statecraft, administration and economics",
+    "explanation": "Arthashastra is a comprehensive work on governance, diplomacy and economics."
+  },
+  {
+    "id": 325,
+    "question": "Which book is considered the first historical chronicle of Kashmir?",
+    "options": ["Rajatarangini", "Arthashastra", "Indica", "Harshacharita"],
+    "answer": "Rajatarangini",
+    "explanation": "Rajatarangini records the history of Kashmir."
+  },
+  {
+    "id": 326,
+    "question": "Who wrote Rajatarangini?",
+    "options": ["Kalhana", "Banabhatta", "Kalidasa", "Patanjali"],
+    "answer": "Kalhana",
+    "explanation": "Kalhana composed Rajatarangini in the 12th century."
+  },
+  {
+    "id": 327,
+    "question": "Harshacharita is the biography of:",
+    "options": ["Ashoka", "Harshavardhana", "Chandragupta Maurya", "Samudragupta"],
+    "answer": "Harshavardhana",
+    "explanation": "Harshacharita was written by Banabhatta about King Harsha."
+  },
+  {
+    "id": 328,
+    "question": "Who wrote Harshacharita?",
+    "options": ["Kalhana", "Banabhatta", "Chanakya", "Megasthenes"],
+    "answer": "Banabhatta",
+    "explanation": "Banabhatta served in Harsha's court and wrote Harshacharita."
+  },
+  {
+    "id": 329,
+    "question": "Sangam literature mainly belongs to:",
+    "options": ["North India", "South India (Tamil region)", "Eastern India", "Western India"],
+    "answer": "South India (Tamil region)",
+    "explanation": "Sangam literature is an important source for ancient Tamil history."
+  },
+  {
+    "id": 330,
+    "question": "Sangam literature provides valuable information about:",
+    "options": ["Delhi Sultanate", "Ancient Tamil society", "British rule", "Gupta administration"],
+    "answer": "Ancient Tamil society",
+    "explanation": "It describes the political, economic and cultural life of ancient South India."
+  },
+  {
+    "id": 331,
+    "question": "Which Greek ambassador visited the court of Chandragupta Maurya?",
+    "options": ["Strabo", "Megasthenes", "Ptolemy", "Pliny"],
+    "answer": "Megasthenes",
+    "explanation": "Megasthenes visited the Mauryan court as the ambassador of Seleucus."
+  },
+  {
+    "id": 332,
+    "question": "Megasthenes wrote the famous book:",
+    "options": ["Arthashastra", "Rajatarangini", "Indica", "Periplus"],
+    "answer": "Indica",
+    "explanation": "Indica gives detailed information about Mauryan India."
+  },
+  {
+    "id": 333,
+    "question": "Megasthenes visited India during the reign of:",
+    "options": ["Ashoka", "Harshavardhana", "Chandragupta Maurya", "Samudragupta"],
+    "answer": "Chandragupta Maurya",
+    "explanation": "He served as the Greek ambassador in Chandragupta Maurya's court."
+  },
+  {
+    "id": 334,
+    "question": "Which Chinese traveller visited India during the reign of Chandragupta II?",
+    "options": ["Xuanzang", "Yijing", "Fa-Hien", "Hiuen Ming"],
+    "answer": "Fa-Hien",
+    "explanation": "Fa-Hien visited India mainly to study Buddhism."
+  },
+  {
+    "id": 335,
+    "question": "Fa-Hien was primarily interested in:",
+    "options": ["Trade", "Buddhist monasteries and scriptures", "Military administration", "Agriculture"],
+    "answer": "Buddhist monasteries and scriptures",
+    "explanation": "His travel account mainly describes Buddhism and social conditions."
+  },
+  {
+    "id": 336,
+    "question": "Which Chinese traveller visited India during the reign of Harshavardhana?",
+    "options": ["Fa-Hien", "Xuanzang (Hiuen Tsang)", "Pliny", "Strabo"],
+    "answer": "Xuanzang (Hiuen Tsang)",
+    "explanation": "Xuanzang stayed in India for many years during Harsha's reign."
+  },
+  {
+    "id": 337,
+    "question": "Xuanzang is famous for describing:",
+    "options": ["Mauryan administration", "Harsha's empire and Nalanda University", "Gupta coins", "Indus Valley Civilization"],
+    "answer": "Harsha's empire and Nalanda University",
+    "explanation": "His writings are an important source for Harsha's period."
+  },
+  {
+    "id": 338,
+    "question": "Yijing was a:",
+    "options": ["Greek ambassador", "Chinese Buddhist traveller", "Roman merchant", "Persian king"],
+    "answer": "Chinese Buddhist traveller",
+    "explanation": "Yijing travelled to India to study Buddhism and monastic life."
+  },
+  {
+    "id": 339,
+    "question": "The 'Periplus of the Erythraean Sea' is mainly related to:",
+    "options": ["Indian mythology", "Ancient trade and ports", "Military administration", "Temple architecture"],
+    "answer": "Ancient trade and ports",
+    "explanation": "It provides valuable information about trade between India and the Roman world."
+  },
+  {
+    "id": 340,
+    "question": "Which of the following correctly matches the traveller with his work?",
+    "options": [
+      "Megasthenes — Indica",
+      "Fa-Hien — Arthashastra",
+      "Xuanzang — Rajatarangini",
+      "Kalhana — Tripitaka"
+    ],
+    "answer": "Megasthenes — Indica",
+    "explanation": "Megasthenes authored Indica, one of the most important foreign accounts of ancient India."
+  }
+]
+
+[
+  {
+    "id": 341,
+    "question": "Ancient India begins with which of the following periods?",
+    "options": ["Medieval Age", "Prehistoric Age", "Modern Age", "Gupta Age"],
+    "answer": "Prehistoric Age",
+    "explanation": "Ancient Indian history starts with the Prehistoric Age, before written records existed."
+  },
+  {
+    "id": 342,
+    "question": "The Prehistoric Age is characterized by:",
+    "options": ["Written inscriptions", "No written records", "Paper manuscripts", "Coins with inscriptions"],
+    "answer": "No written records",
+    "explanation": "Prehistoric people left no written records; history is reconstructed through archaeological evidence."
+  },
+  {
+    "id": 343,
+    "question": "Which is the correct chronological order of the Stone Ages?",
+    "options": [
+      "Mesolithic → Paleolithic → Neolithic",
+      "Neolithic → Paleolithic → Mesolithic",
+      "Paleolithic → Mesolithic → Neolithic",
+      "Neolithic → Mesolithic → Paleolithic"
+    ],
+    "answer": "Paleolithic → Mesolithic → Neolithic",
+    "explanation": "The Old Stone Age (Paleolithic) was followed by the Mesolithic and then the Neolithic Age."
+  },
+  {
+    "id": 344,
+    "question": "The Paleolithic Age is also known as the:",
+    "options": ["Copper Age", "Old Stone Age", "Middle Stone Age", "New Stone Age"],
+    "answer": "Old Stone Age",
+    "explanation": "Paleolithic literally means Old Stone Age."
+  },
+  {
+    "id": 345,
+    "question": "The Mesolithic Age is known as the:",
+    "options": ["Copper Age", "Old Stone Age", "Middle Stone Age", "Iron Age"],
+    "answer": "Middle Stone Age",
+    "explanation": "Mesolithic represents the Middle Stone Age."
+  },
+  {
+    "id": 346,
+    "question": "The Neolithic Age is called the:",
+    "options": ["New Stone Age", "Copper Age", "Iron Age", "Bronze Age"],
+    "answer": "New Stone Age",
+    "explanation": "Neolithic means New Stone Age."
+  },
+  {
+    "id": 347,
+    "question": "Which age is also known as the Copper-Stone Age?",
+    "options": ["Paleolithic", "Mesolithic", "Neolithic", "Chalcolithic"],
+    "answer": "Chalcolithic",
+    "explanation": "Chalcolithic refers to the period when both copper and stone tools were used."
+  },
+  {
+    "id": 348,
+    "question": "The first urban civilization of India was:",
+    "options": ["Vedic Civilization", "Gupta Civilization", "Indus Valley Civilization", "Mauryan Civilization"],
+    "answer": "Indus Valley Civilization",
+    "explanation": "The Indus Valley Civilization was India's first planned urban civilization."
+  },
+  {
+    "id": 349,
+    "question": "The Indus Valley Civilization flourished approximately during:",
+    "options": ["1500–600 BCE", "2600–1900 BCE", "600–321 BCE", "320–550 CE"],
+    "answer": "2600–1900 BCE",
+    "explanation": "The mature Harappan phase lasted approximately from 2600 BCE to 1900 BCE."
+  },
+  {
+    "id": 350,
+    "question": "Another name for the Indus Valley Civilization is:",
+    "options": ["Aryan Civilization", "Harappan Civilization", "Mauryan Civilization", "Dravidian Empire"],
+    "answer": "Harappan Civilization",
+    "explanation": "It is also called the Harappan Civilization after the first excavated site."
+  },
+  {
+    "id": 351,
+    "question": "Which site was the first discovered city of the Indus Valley Civilization?",
+    "options": ["Mohenjo-daro", "Lothal", "Harappa", "Dholavira"],
+    "answer": "Harappa",
+    "explanation": "Harappa was discovered first, giving the civilization its alternative name."
+  },
+  {
+    "id": 352,
+    "question": "Harappa is located in present-day:",
+    "options": ["India", "Nepal", "Pakistan", "Bangladesh"],
+    "answer": "Pakistan",
+    "explanation": "Harappa is situated in Punjab province of present-day Pakistan."
+  },
+  {
+    "id": 353,
+    "question": "Mohenjo-daro is located in present-day:",
+    "options": ["India", "Pakistan", "Afghanistan", "Sri Lanka"],
+    "answer": "Pakistan",
+    "explanation": "Mohenjo-daro lies in Sindh province of Pakistan."
+  },
+  {
+    "id": 354,
+    "question": "Which Indus Valley site is famous for the Great Bath?",
+    "options": ["Harappa", "Lothal", "Mohenjo-daro", "Kalibangan"],
+    "answer": "Mohenjo-daro",
+    "explanation": "The Great Bath is the most famous structure excavated at Mohenjo-daro."
+  },
+  {
+    "id": 355,
+    "question": "Which Indus Valley site is famous for its dockyard?",
+    "options": ["Harappa", "Lothal", "Dholavira", "Banawali"],
+    "answer": "Lothal",
+    "explanation": "Lothal in Gujarat is famous for its ancient dockyard."
+  },
+  {
+    "id": 356,
+    "question": "Dholavira is located in which present-day Indian state?",
+    "options": ["Punjab", "Haryana", "Gujarat", "Rajasthan"],
+    "answer": "Gujarat",
+    "explanation": "Dholavira is located in the Kutch district of Gujarat."
+  },
+  {
+    "id": 357,
+    "question": "The economy of the Indus Valley Civilization was mainly based on:",
+    "options": ["Fishing only", "Agriculture, trade and crafts", "Mining only", "Hunting only"],
+    "answer": "Agriculture, trade and crafts",
+    "explanation": "Agriculture, trade and handicrafts formed the backbone of the Harappan economy."
+  },
+  {
+    "id": 358,
+    "question": "One of the most remarkable features of Harappan cities was:",
+    "options": ["Large temples", "Planned drainage system", "Huge forts only", "Royal palaces"],
+    "answer": "Planned drainage system",
+    "explanation": "The Harappans developed an advanced drainage and sanitation system."
+  },
+  {
+    "id": 359,
+    "question": "The script of the Indus Valley Civilization is:",
+    "options": ["Fully deciphered", "Written in Sanskrit", "Undeciphered", "Written in Pali"],
+    "answer": "Undeciphered",
+    "explanation": "Despite many attempts, the Harappan script has not yet been deciphered."
+  },
+  {
+    "id": 360,
+    "question": "Which of the following is NOT a major site of the Indus Valley Civilization?",
+    "options": ["Harappa", "Mohenjo-daro", "Lothal", "Nalanda"],
+    "answer": "Nalanda",
+    "explanation": "Nalanda was an ancient university of the Gupta/Post-Gupta period, not an Indus Valley site."
+  }
+]
+
+[
+  {
+    "id": 361,
+    "question": "The large warehouse-like structures found at Harappa are known as:",
+    "options": ["Dockyards", "Granaries", "Assembly Halls", "Citadels"],
+    "answer": "Granaries",
+    "explanation": "Granaries were used for storing surplus food grains and indicate an organized economy."
+  },
+  {
+    "id": 362,
+    "question": "The elevated fortified part of a Harappan city is called the:",
+    "options": ["Lower Town", "Citadel", "Marketplace", "Residential Quarter"],
+    "answer": "Citadel",
+    "explanation": "The Citadel was the raised, fortified section containing important public buildings."
+  },
+  {
+    "id": 363,
+    "question": "Most ordinary people in Harappan cities lived in the:",
+    "options": ["Citadel", "Palace", "Lower Town", "Granary"],
+    "answer": "Lower Town",
+    "explanation": "The Lower Town consisted mainly of residential areas for the common population."
+  },
+  {
+    "id": 364,
+    "question": "Harappan streets generally intersected each other at:",
+    "options": ["Acute angles", "Random directions", "Right angles", "Circular junctions"],
+    "answer": "Right angles",
+    "explanation": "The grid-pattern town planning featured roads crossing at right angles."
+  },
+  {
+    "id": 365,
+    "question": "The Harappans are known for using standardized:",
+    "options": ["Currency notes", "Weights and measures", "Iron coins", "Paper documents"],
+    "answer": "Weights and measures",
+    "explanation": "Uniform weights and measures promoted fair trade across Harappan cities."
+  },
+  {
+    "id": 366,
+    "question": "Harappan seals were mostly made of:",
+    "options": ["Gold", "Copper", "Steatite", "Iron"],
+    "answer": "Steatite",
+    "explanation": "Most Harappan seals were carved from steatite and then fired."
+  },
+  {
+    "id": 367,
+    "question": "The most common animal depicted on Harappan seals is:",
+    "options": ["Horse", "Elephant", "Unicorn", "Tiger"],
+    "answer": "Unicorn",
+    "explanation": "The mythical unicorn is the most frequently depicted figure on Harappan seals."
+  },
+  {
+    "id": 368,
+    "question": "Harappan seals were primarily used for:",
+    "options": ["Religious worship only", "Trade and identification", "Agriculture", "Military training"],
+    "answer": "Trade and identification",
+    "explanation": "Seals were used for commercial activities, ownership marks and administrative purposes."
+  },
+  {
+    "id": 369,
+    "question": "Which Harappan site is famous for bead-making factories?",
+    "options": ["Chanhudaro", "Harappa", "Banawali", "Ropar"],
+    "answer": "Chanhudaro",
+    "explanation": "Chanhudaro was an important industrial center known for bead manufacturing."
+  },
+  {
+    "id": 370,
+    "question": "The Indus Valley Civilization is believed to be among the earliest civilizations to cultivate:",
+    "options": ["Tea", "Coffee", "Cotton", "Rubber"],
+    "answer": "Cotton",
+    "explanation": "The Harappans were among the earliest people in the world to cultivate cotton."
+  },
+  {
+    "id": 371,
+    "question": "Evidence of fire altars has been found mainly at:",
+    "options": ["Kalibangan", "Harappa", "Mohenjo-daro", "Lothal"],
+    "answer": "Kalibangan",
+    "explanation": "Kalibangan is well known for its fire altars, suggesting ritual practices."
+  },
+  {
+    "id": 372,
+    "question": "Kalibangan is located in present-day:",
+    "options": ["Punjab", "Rajasthan", "Gujarat", "Haryana"],
+    "answer": "Rajasthan",
+    "explanation": "Kalibangan is situated in Hanumangarh district of Rajasthan."
+  },
+  {
+    "id": 373,
+    "question": "Banawali, an important Harappan site, is located in:",
+    "options": ["Punjab", "Haryana", "Gujarat", "Uttar Pradesh"],
+    "answer": "Haryana",
+    "explanation": "Banawali is an important Harappan site in Haryana."
+  },
+  {
+    "id": 374,
+    "question": "Rakhigarhi, one of the largest Harappan sites, is located in:",
+    "options": ["Punjab", "Rajasthan", "Haryana", "Gujarat"],
+    "answer": "Haryana",
+    "explanation": "Rakhigarhi in Haryana is one of the largest known Harappan settlements."
+  },
+  {
+    "id": 375,
+    "question": "Which Harappan site has yielded evidence suggesting the domestication of horses?",
+    "options": ["Lothal", "Surkotada", "Harappa", "Kalibangan"],
+    "answer": "Surkotada",
+    "explanation": "Surkotada in Gujarat has yielded evidence interpreted by some scholars as horse remains."
+  },
+  {
+    "id": 376,
+    "question": "Dholavira is especially famous for its advanced:",
+    "options": ["Iron industry", "Water management system", "Shipbuilding", "Coin minting"],
+    "answer": "Water management system",
+    "explanation": "Dholavira had an exceptional system of reservoirs and water conservation."
+  },
+  {
+    "id": 377,
+    "question": "Harappan trade with Mesopotamia is confirmed by:",
+    "options": ["Greek inscriptions", "Mesopotamian records mentioning Meluhha", "Roman coins", "Chinese manuscripts"],
+    "answer": "Mesopotamian records mentioning Meluhha",
+    "explanation": "Mesopotamian texts refer to 'Meluhha', believed to represent the Indus region."
+  },
+  {
+    "id": 378,
+    "question": "The name 'Meluhha' found in Mesopotamian records is generally associated with:",
+    "options": ["Egypt", "Indus Valley Civilization", "China", "Persia"],
+    "answer": "Indus Valley Civilization",
+    "explanation": "Most historians identify Meluhha with the Harappan Civilization."
+  },
+  {
+    "id": 379,
+    "question": "Which of the following is NOT considered a possible reason for the decline of the Harappan Civilization?",
+    "options": ["Climate change", "River shifts", "Natural disasters", "European invasion"],
+    "answer": "European invasion",
+    "explanation": "There is no evidence of any European invasion causing the decline of the Harappan Civilization."
+  },
+  {
+    "id": 380,
+    "question": "Which statement best describes the Harappan Civilization?",
+    "options": [
+      "It had highly planned cities with advanced drainage and trade.",
+      "It depended only on hunting and gathering.",
+      "It had deciphered Sanskrit inscriptions.",
+      "It developed after the Gupta Empire."
+    ],
+    "answer": "It had highly planned cities with advanced drainage and trade.",
+    "explanation": "The Indus Valley Civilization is renowned for its urban planning, sanitation, standardized weights and measures, and extensive trade networks."
+  }
+]
+
+[
+  {
+    "id": 381,
+    "question": "The Vedic Age is primarily based on which ancient texts?",
+    "options": ["Puranas", "Vedas", "Tripitaka", "Jataka Tales"],
+    "answer": "Vedas",
+    "explanation": "The Vedic Age derives its name from the Vedas, the oldest sacred literature of India."
+  },
+  {
+    "id": 382,
+    "question": "The Early Vedic Period is generally dated between:",
+    "options": ["2600–1900 BCE", "1500–1000 BCE", "1000–600 BCE", "600–321 BCE"],
+    "answer": "1500–1000 BCE",
+    "explanation": "The Early Vedic Period is generally placed between 1500 BCE and 1000 BCE."
+  },
+  {
+    "id": 383,
+    "question": "The Later Vedic Period is generally dated between:",
+    "options": ["2600–1900 BCE", "1500–1000 BCE", "1000–600 BCE", "321–185 BCE"],
+    "answer": "1000–600 BCE",
+    "explanation": "The Later Vedic Period witnessed agricultural expansion and political development."
+  },
+  {
+    "id": 384,
+    "question": "The main occupation of the Early Vedic people was:",
+    "options": ["Sea trade", "Pastoralism (cattle rearing)", "Iron manufacturing", "Temple construction"],
+    "answer": "Pastoralism (cattle rearing)",
+    "explanation": "The Rigvedic Aryans depended mainly on cattle rearing for their livelihood."
+  },
+  {
+    "id": 385,
+    "question": "During the Later Vedic Period, the economy became mainly:",
+    "options": ["Pastoral", "Agricultural", "Industrial", "Maritime"],
+    "answer": "Agricultural",
+    "explanation": "Agriculture became the backbone of the economy during the Later Vedic Age."
+  },
+  {
+    "id": 386,
+    "question": "Which Veda is considered the oldest?",
+    "options": ["Samaveda", "Atharvaveda", "Rigveda", "Yajurveda"],
+    "answer": "Rigveda",
+    "explanation": "Rigveda is the oldest of the four Vedas and contains 1,028 hymns."
+  },
+  {
+    "id": 387,
+    "question": "The Rigveda mainly consists of:",
+    "options": ["Laws", "Hymns in praise of gods", "Medical texts", "Mathematics"],
+    "answer": "Hymns in praise of gods",
+    "explanation": "The Rigveda is a collection of hymns dedicated to various Vedic deities."
+  },
+  {
+    "id": 388,
+    "question": "Which institution of the Rigvedic period functioned as a popular tribal assembly?",
+    "options": ["Sabha", "Samiti", "Mantriparishad", "Parliament"],
+    "answer": "Samiti",
+    "explanation": "Samiti was the larger assembly of the people and participated in important decisions."
+  },
+  {
+    "id": 389,
+    "question": "The Sabha during the Rigvedic period was mainly:",
+    "options": ["An army", "A council of elders and nobles", "A religious temple", "A marketplace"],
+    "answer": "A council of elders and nobles",
+    "explanation": "Sabha consisted mainly of respected elders and influential members of society."
+  },
+  {
+    "id": 390,
+    "question": "Which two popular assemblies existed during the Rigvedic Age?",
+    "options": ["Lok Sabha and Rajya Sabha", "Sabha and Samiti", "Gram Sabha and Panchayat", "Mahasabha and Parishad"],
+    "answer": "Sabha and Samiti",
+    "explanation": "Sabha and Samiti were the two important assemblies of the Rigvedic people."
+  },
+  {
+    "id": 391,
+    "question": "The term 'Jana' in the Rigvedic period referred to:",
+    "options": ["Village", "Family", "Tribe", "Kingdom"],
+    "answer": "Tribe",
+    "explanation": "Jana was the basic tribal unit of Rigvedic society."
+  },
+  {
+    "id": 392,
+    "question": "The smallest social unit in the Rigvedic period was:",
+    "options": ["Jana", "Grama", "Kula", "Vish"],
+    "answer": "Kula",
+    "explanation": "A Kula referred to a family and formed the basic unit of society."
+  },
+  {
+    "id": 393,
+    "question": "The term 'Grama' in the Vedic Age referred to:",
+    "options": ["Kingdom", "Village", "Province", "Temple"],
+    "answer": "Village",
+    "explanation": "A Grama was a village consisting of several families."
+  },
+  {
+    "id": 394,
+    "question": "The Varna system became more rigid during the:",
+    "options": ["Indus Valley Civilization", "Early Vedic Period", "Later Vedic Period", "Mauryan Period"],
+    "answer": "Later Vedic Period",
+    "explanation": "Social divisions became hereditary and stricter during the Later Vedic Age."
+  },
+  {
+    "id": 395,
+    "question": "The four Varnas are:",
+    "options": [
+      "King, Priest, Farmer, Merchant",
+      "Brahmin, Kshatriya, Vaishya, Shudra",
+      "Teacher, Soldier, Trader, Worker",
+      "Priest, King, Artisan, Slave"
+    ],
+    "answer": "Brahmin, Kshatriya, Vaishya, Shudra",
+    "explanation": "The Varna system divided society into four broad occupational groups."
+  },
+  {
+    "id": 396,
+    "question": "Which metal became widely used during the Later Vedic Period?",
+    "options": ["Gold", "Silver", "Iron", "Tin"],
+    "answer": "Iron",
+    "explanation": "Iron tools improved agriculture and helped expand settlements."
+  },
+  {
+    "id": 397,
+    "question": "The widespread use of iron mainly helped in:",
+    "options": ["Shipbuilding", "Clearing forests and agriculture", "Coin minting", "Temple construction"],
+    "answer": "Clearing forests and agriculture",
+    "explanation": "Iron axes and ploughs enabled forest clearance and increased agricultural production."
+  },
+  {
+    "id": 398,
+    "question": "Which Vedic god is known as the 'King of Gods' and the god of thunder?",
+    "options": ["Agni", "Varuna", "Indra", "Soma"],
+    "answer": "Indra",
+    "explanation": "Indra is the most frequently praised deity in the Rigveda and is associated with rain and thunder."
+  },
+  {
+    "id": 399,
+    "question": "Agni, an important Vedic deity, is the god of:",
+    "options": ["Fire", "Water", "Wind", "Sun"],
+    "answer": "Fire",
+    "explanation": "Agni was central to Vedic sacrifices as the sacred fire carried offerings to the gods."
+  },
+  {
+    "id": 400,
+    "question": "Which statement correctly distinguishes the Early and Later Vedic periods?",
+    "options": [
+      "Early Vedic society was mainly pastoral, while Later Vedic society became agricultural and socially stratified.",
+      "Early Vedic society used iron extensively, while Later Vedic society did not.",
+      "The Indus script was developed during the Later Vedic Period.",
+      "The Varna system disappeared during the Later Vedic Period."
+    ],
+    "answer": "Early Vedic society was mainly pastoral, while Later Vedic society became agricultural and socially stratified.",
+    "explanation": "The major transition from the Early to Later Vedic Age was the shift from cattle-based pastoral life to settled agriculture along with a more organized social structure."
+  }
+]
+[
+  {
+    "id": 401,
+    "question": "Which deity occupies the highest position in the Rigveda based on the number of hymns dedicated to him?",
+    "options": ["Agni", "Indra", "Varuna", "Soma"],
+    "answer": "Indra",
+    "explanation": "Indra is the most frequently praised deity in the Rigveda and is regarded as the chief Vedic god."
+  },
+  {
+    "id": 402,
+    "question": "Indra is primarily associated with:",
+    "options": ["Fire", "Rain, thunder and victory in battles", "Learning", "Wealth"],
+    "answer": "Rain, thunder and victory in battles",
+    "explanation": "Indra is the god of rain, thunder and war, celebrated for defeating Vritra."
+  },
+  {
+    "id": 403,
+    "question": "Which demon was defeated by Indra according to the Rigveda?",
+    "options": ["Mahishasura", "Vritra", "Ravana", "Hiranyakashipu"],
+    "answer": "Vritra",
+    "explanation": "Indra slew the demon Vritra, releasing the waters and bringing rain."
+  },
+  {
+    "id": 404,
+    "question": "Agni occupies an important place in Vedic religion because he:",
+    "options": ["Created the universe", "Carried offerings from humans to gods", "Protected trade routes", "Controlled the oceans"],
+    "answer": "Carried offerings from humans to gods",
+    "explanation": "Agni acted as the divine messenger between humans and the gods."
+  },
+  {
+    "id": 405,
+    "question": "Varuna is mainly regarded as the Vedic god of:",
+    "options": ["Fire", "Moral order and cosmic law", "Agriculture", "Music"],
+    "answer": "Moral order and cosmic law",
+    "explanation": "Varuna upheld 'Rta', the universal moral and natural order."
+  },
+  {
+    "id": 406,
+    "question": "The Vedic concept of 'Rta' refers to:",
+    "options": ["Royal authority", "Cosmic and moral order", "Tax collection", "Military discipline"],
+    "answer": "Cosmic and moral order",
+    "explanation": "Rta represented the principle governing truth, justice and the order of the universe."
+  },
+  {
+    "id": 407,
+    "question": "Soma in the Vedic literature primarily refers to:",
+    "options": ["A sacred river", "A sacred ritual drink and deity", "A mountain", "A king"],
+    "answer": "A sacred ritual drink and deity",
+    "explanation": "Soma was both a deity and a sacred drink used during sacrifices."
+  },
+  {
+    "id": 408,
+    "question": "Ushas is the Vedic goddess of:",
+    "options": ["Night", "Learning", "Dawn", "Prosperity"],
+    "answer": "Dawn",
+    "explanation": "Ushas symbolizes the dawn and the beginning of a new day."
+  },
+  {
+    "id": 409,
+    "question": "Surya in the Vedic Age is the god of:",
+    "options": ["Wind", "Sun", "Moon", "Rain"],
+    "answer": "Sun",
+    "explanation": "Surya represents the Sun and is one of the important Vedic deities."
+  },
+  {
+    "id": 410,
+    "question": "Which Vedic deity later evolved into the Hindu god Shiva?",
+    "options": ["Agni", "Rudra", "Pushan", "Mitra"],
+    "answer": "Rudra",
+    "explanation": "Rudra is considered the early Vedic form of Lord Shiva."
+  },
+  {
+    "id": 411,
+    "question": "In the Rigvedic period, Vishnu was mainly associated with:",
+    "options": ["Three giant strides across the universe", "Destruction", "Medicine", "Trade"],
+    "answer": "Three giant strides across the universe",
+    "explanation": "Rigvedic hymns describe Vishnu's three cosmic strides."
+  },
+  {
+    "id": 412,
+    "question": "Prajapati emerged as an important creator deity mainly during the:",
+    "options": ["Indus Valley Civilization", "Later Vedic Period", "Mauryan Period", "Gupta Period"],
+    "answer": "Later Vedic Period",
+    "explanation": "Prajapati became increasingly important in the Later Vedic religious tradition."
+  },
+  {
+    "id": 413,
+    "question": "The main religious practice during the Vedic Age was:",
+    "options": ["Temple worship", "Yajna (sacrificial rituals)", "Pilgrimage", "Image worship"],
+    "answer": "Yajna (sacrificial rituals)",
+    "explanation": "Fire sacrifices or Yajnas formed the core of Vedic religious life."
+  },
+  {
+    "id": 414,
+    "question": "The performance of a Yajna required the central role of:",
+    "options": ["Merchants", "Priests", "Soldiers", "Artisans"],
+    "answer": "Priests",
+    "explanation": "Brahmin priests conducted sacrifices according to prescribed rituals."
+  },
+  {
+    "id": 415,
+    "question": "The ancient Indian system dividing life into four stages is called:",
+    "options": ["Varna System", "Ashrama System", "Jati System", "Gotra System"],
+    "answer": "Ashrama System",
+    "explanation": "The Ashrama system classified life into Brahmacharya, Grihastha, Vanaprastha and Sannyasa."
+  },
+  {
+    "id": 416,
+    "question": "Which is the first stage of the Ashrama system?",
+    "options": ["Grihastha", "Vanaprastha", "Brahmacharya", "Sannyasa"],
+    "answer": "Brahmacharya",
+    "explanation": "Brahmacharya is the student stage devoted to education and discipline."
+  },
+  {
+    "id": 417,
+    "question": "Education in the Vedic Age was mainly imparted through:",
+    "options": ["Universities", "Gurukul system", "Royal academies", "Public schools"],
+    "answer": "Gurukul system",
+    "explanation": "Students lived with their teacher (Guru) in a Gurukul to receive education."
+  },
+  {
+    "id": 418,
+    "question": "Women such as Gargi and Maitreyi are remembered in Vedic literature because they:",
+    "options": ["Led armies", "Were scholars and philosophers", "Ruled kingdoms", "Built temples"],
+    "answer": "Were scholars and philosophers",
+    "explanation": "Gargi and Maitreyi were renowned women scholars who participated in philosophical discussions."
+  },
+  {
+    "id": 419,
+    "question": "Who was the chief political authority in the Rigvedic tribal society?",
+    "options": ["Mahamatya", "Rajan", "Samrat", "Collector"],
+    "answer": "Rajan",
+    "explanation": "The Rajan (king) was the tribal chief, though his powers were limited by assemblies like the Sabha and Samiti."
+  },
+  {
+    "id": 420,
+    "question": "Which of the following statements correctly describes Vedic religion?",
+    "options": [
+      "Temple worship and idol worship dominated the Early Vedic Period.",
+      "The Early Vedic religion centered on nature deities and fire sacrifices.",
+      "Only one supreme god was worshipped throughout the Vedic Age.",
+      "Buddhist monasteries formed the religious centers of the Vedic people."
+    ],
+    "answer": "The Early Vedic religion centered on nature deities and fire sacrifices.",
+    "explanation": "The Early Vedic religion emphasized worship of natural forces through Yajnas rather than idol or temple worship."
+  }
+]
+
+[
+  {
+    "id": 421,
+    "question": "The period from 600 BCE to 321 BCE in Ancient India is known as the age of:",
+    "options": ["Gupta Empire", "Mahajanapadas", "Delhi Sultanate", "Mughal Empire"],
+    "answer": "Mahajanapadas",
+    "explanation": "The period between 600 BCE and 321 BCE witnessed the rise of sixteen major kingdoms called the Mahajanapadas."
+  },
+  {
+    "id": 422,
+    "question": "How many Mahajanapadas are mentioned in Buddhist literature?",
+    "options": ["8", "12", "16", "24"],
+    "answer": "16",
+    "explanation": "The Anguttara Nikaya mentions sixteen Mahajanapadas."
+  },
+  {
+    "id": 423,
+    "question": "Which Mahajanapada emerged as the most powerful before the Mauryan Empire?",
+    "options": ["Kosala", "Avanti", "Magadha", "Vatsa"],
+    "answer": "Magadha",
+    "explanation": "Magadha gradually became the strongest kingdom due to its resources, rulers and strategic location."
+  },
+  {
+    "id": 424,
+    "question": "The first capital of Magadha was:",
+    "options": ["Pataliputra", "Rajagriha (Rajgir)", "Vaishali", "Ujjain"],
+    "answer": "Rajagriha (Rajgir)",
+    "explanation": "Rajagriha served as the early capital before the capital shifted to Pataliputra."
+  },
+  {
+    "id": 425,
+    "question": "Which dynasty laid the foundation of Magadha's rise to power?",
+    "options": ["Nanda Dynasty", "Maurya Dynasty", "Haryanka Dynasty", "Gupta Dynasty"],
+    "answer": "Haryanka Dynasty",
+    "explanation": "The Haryanka rulers, especially Bimbisara and Ajatashatru, expanded Magadha."
+  },
+  {
+    "id": 426,
+    "question": "Who is regarded as the founder of the Haryanka Dynasty?",
+    "options": ["Ajatashatru", "Bimbisara", "Mahapadma Nanda", "Chandragupta Maurya"],
+    "answer": "Bimbisara",
+    "explanation": "Bimbisara established the Haryanka Dynasty and greatly strengthened Magadha."
+  },
+  {
+    "id": 427,
+    "question": "Bimbisara belonged to which dynasty?",
+    "options": ["Maurya", "Nanda", "Haryanka", "Shishunaga"],
+    "answer": "Haryanka",
+    "explanation": "Bimbisara was one of the greatest rulers of the Haryanka Dynasty."
+  },
+  {
+    "id": 428,
+    "question": "Who succeeded Bimbisara as the ruler of Magadha?",
+    "options": ["Ashoka", "Ajatashatru", "Mahapadma Nanda", "Bindusara"],
+    "answer": "Ajatashatru",
+    "explanation": "Ajatashatru succeeded Bimbisara and continued the expansion of Magadha."
+  },
+  {
+    "id": 429,
+    "question": "Ajatashatru is best known for defeating which republican state?",
+    "options": ["Kosala", "Vrijji (Vajji) Confederacy", "Avanti", "Gandhara"],
+    "answer": "Vrijji (Vajji) Confederacy",
+    "explanation": "Ajatashatru defeated the powerful Vajji Confederacy after a prolonged struggle."
+  },
+  {
+    "id": 430,
+    "question": "The capital of the Vajji Confederacy was:",
+    "options": ["Rajagriha", "Vaishali", "Pataliputra", "Taxila"],
+    "answer": "Vaishali",
+    "explanation": "Vaishali was the capital of the Vajji Confederacy and an important center of Buddhism and Jainism."
+  },
+  {
+    "id": 431,
+    "question": "Gautama Buddha was born at:",
+    "options": ["Bodh Gaya", "Lumbini", "Sarnath", "Kushinagar"],
+    "answer": "Lumbini",
+    "explanation": "Buddha was born at Lumbini, located in present-day Nepal."
+  },
+  {
+    "id": 432,
+    "question": "The original name of Gautama Buddha was:",
+    "options": ["Vardhamana", "Siddhartha", "Ashvaghosha", "Rahula"],
+    "answer": "Siddhartha",
+    "explanation": "Before attaining enlightenment, Buddha was known as Prince Siddhartha Gautama."
+  },
+  {
+    "id": 433,
+    "question": "The father of Gautama Buddha was:",
+    "options": ["Bindusara", "Shuddhodana", "Bimbisara", "Prasenajit"],
+    "answer": "Shuddhodana",
+    "explanation": "Shuddhodana was the chief of the Shakya clan."
+  },
+  {
+    "id": 434,
+    "question": "Gautama Buddha attained enlightenment at:",
+    "options": ["Sarnath", "Rajgir", "Bodh Gaya", "Vaishali"],
+    "answer": "Bodh Gaya",
+    "explanation": "Buddha attained enlightenment under the Bodhi Tree at Bodh Gaya."
+  },
+  {
+    "id": 435,
+    "question": "The first sermon of Buddha was delivered at:",
+    "options": ["Lumbini", "Sarnath", "Kushinagar", "Nalanda"],
+    "answer": "Sarnath",
+    "explanation": "The first sermon, known as the 'Dharmachakra Pravartana', was delivered at Sarnath."
+  },
+  {
+    "id": 436,
+    "question": "Buddha attained Mahaparinirvana at:",
+    "options": ["Vaishali", "Bodh Gaya", "Kushinagar", "Kapilavastu"],
+    "answer": "Kushinagar",
+    "explanation": "Buddha passed away at Kushinagar at the age of 80."
+  },
+  {
+    "id": 437,
+    "question": "The Four Noble Truths were taught by:",
+    "options": ["Mahavira", "Buddha", "Chanakya", "Ashoka"],
+    "answer": "Buddha",
+    "explanation": "The Four Noble Truths form the foundation of Buddhist philosophy."
+  },
+  {
+    "id": 438,
+    "question": "The Eightfold Path was prescribed by Buddha mainly to:",
+    "options": ["Gain political power", "End suffering and attain Nirvana", "Perform sacrifices", "Increase wealth"],
+    "answer": "End suffering and attain Nirvana",
+    "explanation": "The Noble Eightfold Path guides followers toward liberation from suffering."
+  },
+  {
+    "id": 439,
+    "question": "The 'Three Jewels' (Triratna) of Buddhism are:",
+    "options": [
+      "Brahma, Vishnu, Mahesh",
+      "Buddha, Dhamma and Sangha",
+      "Knowledge, Wealth and Power",
+      "Truth, Non-violence and Charity"
+    ],
+    "answer": "Buddha, Dhamma and Sangha",
+    "explanation": "The Three Jewels are the core refuge for every Buddhist."
+  },
+  {
+    "id": 440,
+    "question": "Who was the 24th and last Tirthankara of Jainism?",
+    "options": ["Parshvanatha", "Mahavira", "Rishabhanatha", "Ajitanatha"],
+    "answer": "Mahavira",
+    "explanation": "Mahavira, also known as Vardhamana, was the 24th and last Tirthankara of Jainism."
+  }
+]
+
+[
+  {
+    "question": "Which police award is given for long and distinguished service?",
+    "options": [
+      "Police Medal for Gallantry",
+      "President's Police Medal for Distinguished Service",
+      "Police Medal for Meritorious Service",
       "Indian Police Medal"
     ],
-    "answer": 1,
-    "explanation": "The George Cross is the highest civilian gallantry award of the United Kingdom."
+    "answer": "President's Police Medal for Distinguished Service",
+    "explanation": "This award recognizes outstanding and long service in the police department."
   },
   {
-    "question": "The George Cross is awarded for:",
+    "question": "The George Cross belongs to which country?",
     "options": [
-      "Long government service",
-      "Acts of the greatest heroism or courage",
-      "Academic excellence",
-      "Sports achievements"
+      "USA",
+      "Germany",
+      "France",
+      "United Kingdom"
     ],
-    "answer": 1,
-    "explanation": "It recognizes the greatest acts of heroism and courage."
+    "answer": "United Kingdom",
+    "explanation": "The George Cross is one of the highest civilian bravery awards of the United Kingdom."
   },
   {
-    "question": "The National Medal of Valor mentioned in the chapter belongs to:",
+    "question": "Which award is considered equivalent to the Param Vir Chakra during peacetime?",
     "options": [
-      "India",
-      "United Kingdom",
-      "United States of America",
-      "Australia"
+      "Kirti Chakra",
+      "Ashok Chakra",
+      "Shaurya Chakra",
+      "Maha Vir Chakra"
     ],
-    "answer": 2,
-    "explanation": "The National Medal of Valor is associated with the USA."
+    "answer": "Ashok Chakra",
+    "explanation": "Ashok Chakra is India's highest peacetime gallantry award."
   },
   {
-    "question": "The National Medal of Valor recognizes:",
+    "question": "Which wartime gallantry award ranks immediately below the Param Vir Chakra?",
     "options": [
-      "Outstanding bravery by public safety officers",
-      "Best police administrator",
-      "Military commanders",
-      "Civil servants"
+      "Vir Chakra",
+      "Ashok Chakra",
+      "Maha Vir Chakra",
+      "Kirti Chakra"
     ],
-    "answer": 0,
-    "explanation": "It honours exceptional courage shown by public safety officers."
+    "answer": "Maha Vir Chakra",
+    "explanation": "Maha Vir Chakra is India's second-highest wartime gallantry award."
   },
   {
-    "question": "INTERPOL awards are associated with:",
+    "question": "The Legion of Honour was established by whom?",
     "options": [
-      "International police cooperation",
-      "Sports competitions",
-      "Judicial appointments",
-      "Military promotions"
+      "Julius Caesar",
+      "Napoleon Bonaparte",
+      "Winston Churchill",
+      "Charles de Gaulle"
     ],
-    "answer": 0,
-    "explanation": "INTERPOL promotes international police cooperation."
+    "answer": "Napoleon Bonaparte",
+    "explanation": "France's highest award was established by Napoleon Bonaparte."
   },
   {
-    "question": "Which organization works to strengthen cooperation among police agencies across countries?",
+    "question": "Which literary award is presented by the Swedish Academy?",
     "options": [
-      "UNESCO",
-      "INTERPOL",
-      "WHO",
-      "IMF"
+      "Booker Prize",
+      "Pulitzer Prize",
+      "Nobel Prize in Literature",
+      "Saraswati Samman"
     ],
-    "answer": 1,
-    "explanation": "INTERPOL facilitates international police cooperation."
+    "answer": "Nobel Prize in Literature",
+    "explanation": "The Nobel Prize in Literature is awarded by the Swedish Academy."
   },
   {
-    "question": "Which award specifically encourages integrity and dedication in policing?",
+    "question": "Which Indian literary award specifically encourages outstanding Hindi literary works?",
     "options": [
-      "Police Medal for Meritorious Service",
-      "George Cross",
-      "National Medal of Valor",
-      "Param Vir Chakra"
+      "Sahitya Akademi Award",
+      "Jnanpith Award",
+      "Vyas Samman",
+      "Saraswati Samman"
     ],
-    "answer": 0,
-    "explanation": "The Police Medal for Meritorious Service encourages dedication, honesty and efficient policing."
+    "answer": "Vyas Samman",
+    "explanation": "Vyas Samman is awarded for outstanding Hindi literary works."
   },
   {
-    "question": "The President's Police Medal for Distinguished Service generally recognizes:",
+    "question": "Which education award is popularly known as the 'Nobel Prize for Teaching'?",
     "options": [
-      "Only acts of bravery",
-      "Long and distinguished service",
-      "Sports achievements",
-      "Administrative examinations"
+      "Yidan Prize",
+      "UNESCO Prize for Girls and Women's Education",
+      "Global Teacher Prize",
+      "National ICT Award"
     ],
-    "answer": 1,
-    "explanation": "It recognizes long, distinguished and exceptional service."
+    "answer": "Global Teacher Prize",
+    "explanation": "The Global Teacher Prize recognizes exceptional teachers worldwide."
   },
   {
-    "question": "Gallantry awards are primarily associated with:",
+    "question": "ICT in National ICT Award stands for:",
     "options": [
-      "Administrative efficiency",
-      "Acts of courage and bravery",
-      "Financial management",
-      "Training performance"
+      "International Computer Technology",
+      "Information and Communication Technology",
+      "Indian Communication Technology",
+      "Information Control Technique"
     ],
-    "answer": 1,
-    "explanation": "Gallantry awards recognize courage and bravery while performing duty."
+    "answer": "Information and Communication Technology",
+    "explanation": "ICT stands for Information and Communication Technology."
   },
   {
-    "question": "Meritorious Service refers to:",
+    "question": "Which international award is often called 'Asia's Nobel Prize'?",
     "options": [
-      "Dedicated and efficient service",
-      "Winning medals in sports",
-      "Political leadership",
-      "Judicial excellence"
+      "Fields Medal",
+      "Ramon Magsaysay Award",
+      "Right Livelihood Award",
+      "Turing Award"
     ],
-    "answer": 0,
-    "explanation": "Meritorious service means sincere, efficient and dedicated performance of duty."
+    "answer": "Ramon Magsaysay Award",
+    "explanation": "The Ramon Magsaysay Award recognizes leadership and public service in Asia."
   },
   {
-    "question": "Which award is specifically linked with exceptional police bravery in India?",
+    "question": "The Right Livelihood Award mainly recognizes contributions in:",
     "options": [
-      "President's Police Medal for Gallantry",
-      "Police Medal for Meritorious Service",
-      "Indian Police Medal",
-      "George Cross"
+      "Mathematics",
+      "Computer Science",
+      "Human rights and sustainability",
+      "Literature"
     ],
-    "answer": 0,
-    "explanation": "The President's Police Medal for Gallantry honours exceptional police bravery."
+    "answer": "Human rights and sustainability",
+    "explanation": "It honors contributions to peace, justice, sustainability and human rights."
   },
   {
-    "question": "The chapter compares Indian police awards with awards from:",
+    "question": "Padma Bhushan is India's _____ highest civilian award.",
     "options": [
-      "Only India",
-      "India, UK and USA",
-      "India and Australia",
-      "Only USA"
+      "Second",
+      "Third",
+      "Fourth",
+      "Fifth"
     ],
-    "answer": 1,
-    "explanation": "The chapter mentions awards from India, the United Kingdom and the United States."
+    "answer": "Third",
+    "explanation": "Padma Bhushan is India's third-highest civilian award."
   },
   {
-    "question": "The primary purpose of police awards is to:",
+    "question": "Kalidas Samman is mainly associated with:",
     "options": [
-      "Increase salary",
-      "Recognize outstanding service and motivate personnel",
-      "Provide promotions automatically",
-      "Reduce workload"
+      "Journalism",
+      "Performing and Visual Arts",
+      "Sports",
+      "Cinema"
     ],
-    "answer": 1,
-    "explanation": "Police awards recognize excellence and motivate officers to perform better."
+    "answer": "Performing and Visual Arts",
+    "explanation": "Kalidas Samman recognizes excellence in classical music, dance, theatre and visual arts."
   },
   {
-    "question": "Recognition through police awards mainly promotes:",
+    "question": "Which award promotes fine arts such as painting and sculpture?",
     "options": [
-      "Professional excellence",
-      "Negligence",
-      "Political influence",
-      "Commercial success"
+      "Sangeet Natak Akademi Award",
+      "Kalidas Samman",
+      "Lalit Kala Akademi Award",
+      "Padma Shri"
     ],
-    "answer": 0,
-    "explanation": "Awards encourage professionalism, integrity and excellence in policing."
+    "answer": "Lalit Kala Akademi Award",
+    "explanation": "Lalit Kala Akademi Award is presented for excellence in visual arts."
+  },
+  {
+    "question": "Which award recognizes lifetime contribution to culture and arts in the USA?",
+    "options": [
+      "Grammy Awards",
+      "Tony Awards",
+      "Kennedy Center Honors",
+      "Olivier Awards"
+    ],
+    "answer": "Kennedy Center Honors",
+    "explanation": "Kennedy Center Honors recognize lifetime achievements in arts and culture."
+  },
+  {
+    "question": "The term 'Bharat Ratna' means:",
+    "options": [
+      "Pride of India",
+      "Jewel of India",
+      "Hero of India",
+      "Crown of India"
+    ],
+    "answer": "Jewel of India",
+    "explanation": "Bharat Ratna literally means 'Jewel of India'."
+  },
+  {
+    "question": "Which organization presents the CSIR Awards?",
+    "options": [
+      "ISRO",
+      "DRDO",
+      "Council of Scientific and Industrial Research",
+      "IIT Council"
+    ],
+    "answer": "Council of Scientific and Industrial Research",
+    "explanation": "CSIR Awards encourage scientific innovation and research."
+  },
+  {
+    "question": "Which Nobel Prize category recognizes contributions to international peace?",
+    "options": [
+      "Nobel Prize in Physics",
+      "Nobel Prize in Chemistry",
+      "Nobel Peace Prize",
+      "Nobel Prize in Medicine"
+    ],
+    "answer": "Nobel Peace Prize",
+    "explanation": "The Nobel Peace Prize honors outstanding contributions toward peace."
+  },
+  {
+    "question": "The EY Entrepreneur Of The Year Award was launched in:",
+    "options": [
+      "1976",
+      "1986",
+      "1996",
+      "2006"
+    ],
+    "answer": "1986",
+    "explanation": "Ernst & Young launched the EY Entrepreneur Of The Year Award in 1986."
+  },
+  {
+    "question": "The National Startup Awards in India were launched in:",
+    "options": [
+      "2016",
+      "2018",
+      "2020",
+      "2022"
+    ],
+    "answer": "2020",
+    "explanation": "The National Startup Awards were launched in 2020 by DPIIT."
   }
 ]
